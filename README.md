@@ -1,6 +1,6 @@
 ### Hello, I’m Eric. 
 
-I'm a software engineer with diverse experience, currently focusing on Java, Spring Framework, and Android development. I recently completed my [Oracle Certified Professional Java SE 11 Developer certification](https://www.youracclaim.com/badges/e8120e4b-8f1f-4437-9f2b-5e7a00c38af9).
+I'm a software engineer with diverse experience, currently focusing on Java, Spring Framework, and Android development. I recently completed my [Oracle Certified Professional Java SE 11 Developer](https://www.youracclaim.com/badges/e8120e4b-8f1f-4437-9f2b-5e7a00c38af9) certification.
 
 I’ve always felt an affinity for the Java language and ecosystem, and I’m spending my personal learning time these days diving into Spring Framework development.
 
