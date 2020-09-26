@@ -2,7 +2,7 @@
 
 I'm a software engineer with diverse experience, currently focusing on Java, Spring Framework, and Android development. I recently completed my [Oracle Certified Professional Java SE 11 Developer](https://www.youracclaim.com/badges/e8120e4b-8f1f-4437-9f2b-5e7a00c38af9) certification.
 
-Since 2018, while completing my [Android Developer Nanodegree](https://graduation.udacity.com/confirm/4EVRWQDC), I have been focused on Android and back-end Web API development. I’ve been in a variety of software development roles over the last 20 years. I was a successful I.T. Project Manager for six years, with an emphasis on software development and system implementation projects. I’ve also done a lot of web application development, primarily ASP.NET with SQL Server.
+Since 2018, while completing my [Android Developer Nanodegree](https://graduation.udacity.com/confirm/4EVRWQDC), my day job has primarily involved Android and back-end Web API development. I’ve been in a variety of software development roles over the last 20 years. I was a successful I.T. Project Manager for six years, with an emphasis on software development and system implementation projects. I’ve also done a lot of web application development, primarily ASP.NET with SQL Server.
 
 <!--
 **EricRybarczyk/EricRybarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
